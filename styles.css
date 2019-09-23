@@ -1,0 +1,16 @@
+/* exercises by andihafner.com
+For color tables see --> https://en.wikipedia.org/wiki/Web_colors
+*/
+
+body {
+  color: SlateGray;
+  background-color: WhiteSmoke;
+}
+
+.ah_red {
+  color: Crimson;
+}
+
+.ah_italic {
+  font-style: italic;
+}
